@@ -16,8 +16,8 @@ This project is an implementation of the classic Memory Game, where players need
 - HTML5
 - CSS
 - JavaScript
-- (Optional) jQuery
-- (Optional) Bootstrap
+- jQuery
+- Bootstrap
 
 ## How to Run
 
@@ -40,8 +40,7 @@ This project is an implementation of the classic Memory Game, where players need
 - `index.html`: The main HTML file that contains the game structure and user interface.
 - `styles.css`: The CSS file for styling the game elements.
 - `game.js`: The JavaScript file that contains the game logic and functionality.
-- (Optional) `jquery.min.js`: The minified jQuery library file (if used).
-- (Optional) `bootstrap.min.css` and `bootstrap.min.js`: The minified Bootstrap CSS and JavaScript files (if used).
+
 
 ## Credits
 

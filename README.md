@@ -9,7 +9,7 @@ This project is an implementation of the classic Memory Game, where players need
 - Game displays the player's name, a running timer, and the board with the selected number of card pairs.
 - Matched pairs of cards remain visible, and the game continues until all pairs are found.
 - At the end of the game, the player's completion time is displayed, and they have the option to play again.
-- Decent styling and visual design for the game.
+- Song playing in the backround of the game, when the user wins , a winning sound is played.
 
 ## Technologies Used
 

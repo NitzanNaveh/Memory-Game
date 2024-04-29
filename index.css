@@ -1,0 +1,37 @@
+
+body{
+   background-image: url('gallery/bar3.jpg');
+   background-size: cover;
+}
+
+#logoimage{
+    width: 100px;
+    height: 120px;
+}
+
+#InputName{
+    border-color: white;
+    fill: none;
+    background: transparent;
+    
+}
+.form-control::placeholder { 
+    color: rgba(254, 254, 254, 0.886);
+}
+#Numberofcards{
+    border-color: white;
+    fill: none;
+    background: transparent;
+
+}
+.btn-custom{
+    border-color: white;
+    color:rgb(210, 162, 48);
+}
+.btn-custom:hover{
+    background-color: rgb(210, 162, 48);
+    color:white;
+}
+.fixed-bottom{
+    background-color: rgb(210, 162, 48);;
+}
